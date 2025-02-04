@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sewan
 - 👀 I’m interested in Software, Hardware and Gaming
-- 🌱 I’m currently trying to learn Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord: Sewan#1880
+- 🌱 I’m currently trying to learn content creation
+- 📫 How to reach me Discord: sewan1880
